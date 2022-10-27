@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30em" width="30em"/></h1>
 
 <p align="center">
 <a href="URL_REDIRECT" target="blank"> <img align="center" ![95FC0371-4060-464C-A12E-ACBF3AB4383F](https://user-images.githubusercontent.com/11345457/198342722-9729eb29-0ecf-4cb7-ba57-ef05bb6cfb8a.jpeg) height="400"/></a>
