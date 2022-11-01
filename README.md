@@ -6,7 +6,7 @@
 *Before changing career paths I studied Contemporary Art History and Theory and worked in the NYC art world. I had the pleasure of working alongside some of my favorite emerging artists (at the time), such as Adam Basanta, Ann Hirsch and Jaimie Warren. I then switched gears working in food and customer service as a Shift Manager for a number of Starbucks stores between New York and Colorado. During my time studying art history I discovered the Post-Internet art movement. Many of these artists utilizied code and various programs and frameworks to create their work. This interest has been a huge component of my drive to become a Front End Developer*
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning React, Global State Management using React Context API, Cypress Testing
+- 🌱 I’m currently learning React, Global State Management using Redux, and Cypress Testing
 - 🤔 I’m looking to learn Express and TypeScript
 - 📫 How to reach me: 
 <p>
