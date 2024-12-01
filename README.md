@@ -6,8 +6,7 @@
 *Before changing career paths I studied Contemporary Art History and Theory and worked in the NYC art world. I had the pleasure of working alongside some of my favorite emerging artists (at the time), such as Adam Basanta, Ann Hirsch and Jaimie Warren. I then switched gears working in food and customer service as a Shift Manager for a number of Starbucks stores between New York and Colorado. During my time studying art history I discovered the Post-Internet art movement. Many of these artists utilizied code and various programs and frameworks to create their work. This interest has been a huge component of my drive to become a Front End Developer*
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning TypeScript and MongoDB
-- 🤔 I’m looking to learn Next.js
+- 🌱 I’m currently learning TypeScript and Next.js
 - 📫 How to reach me: 
 <p>
 <a href="mailto:dsweeny1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
